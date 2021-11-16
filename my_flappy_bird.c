@@ -26,7 +26,7 @@ int set_ticker(int n);
 
 int main()
 {
-	char ch;
+    char ch;
     
     init();
     while(1) 
